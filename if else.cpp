@@ -9,7 +9,7 @@ main()
 	
 	if(age>=18)
 	{
-		cout<<"ou are Eigible to vote";
+		cout<<"You are Eigible to vote";
 	}
 	else
 	{
